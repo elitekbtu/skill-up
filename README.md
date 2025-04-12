@@ -41,16 +41,16 @@ git clone https://github.com/username/skillup.git
 cd skillup
 npm install 
 ```
-# 3. Іске қосу / Run the project
+### 3. Іске қосу / Run the project
 
 ```bash
 ng serve
 ```
 
-# 5. Браузерде ашу / Open in browser
+### 5. Браузерде ашу / Open in browser
 
 <https://localhost:4200/>
 
-# 6. Жобаны көру / Deploy project
+### 6. Жобаны көру / Deploy project
 
 [SkillUp](https://skillupcom.vercel.app)
